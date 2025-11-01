@@ -368,7 +368,7 @@ const Index = () => {
                 <CardTitle>Телефон</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-muted-foreground">+7 (495) 123-45-67</p>
+                <p className="text-muted-foreground">+7 201 102 03 02</p>
                 <p className="text-sm text-muted-foreground mt-2">Ежедневно с 9:00 до 21:00</p>
               </CardContent>
             </Card>
@@ -378,7 +378,7 @@ const Index = () => {
                 <CardTitle>Email</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-muted-foreground">info@luchsveta.ru</p>
+                <p className="text-muted-foreground">lys_cveta@mail.ru</p>
               </CardContent>
             </Card>
           </div>
