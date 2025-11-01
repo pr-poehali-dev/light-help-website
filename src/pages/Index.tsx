@@ -387,7 +387,7 @@ const Index = () => {
 
       <footer className="bg-muted/50 py-8 px-4 border-t">
         <div className="container mx-auto max-w-6xl text-center text-muted-foreground">
-          <p>© 2024 Психологический центр "Луч света". Все права защищены.</p>
+          <p>© 2025 Психологический центр "Луч света". Все права защищены.</p>
         </div>
       </footer>
     </div>
