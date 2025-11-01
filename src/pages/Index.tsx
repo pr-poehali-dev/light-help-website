@@ -166,8 +166,8 @@ const Index = () => {
             <div className="animate-fade-in">
               <div className="rounded-3xl overflow-hidden">
                 <img 
-                  src="https://cdn.poehali.dev/projects/4c496e59-eb96-4a62-a32a-749f2f3db2fb/files/24913a97-858a-431e-a5c2-0bb51222742c.jpg" 
-                  alt="Психологический центр Луч света"
+                  src="https://cdn.poehali.dev/files/2c3adcf0-adf2-411c-87c3-7e286de12dd0.jpeg" 
+                  alt="Луч света"
                   className="w-full h-full object-cover"
                 />
               </div>
