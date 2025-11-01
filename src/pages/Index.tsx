@@ -28,9 +28,9 @@ const Index = () => {
 
   const specialists = [
     {
-      name: 'Анна Петрова',
+      name: 'Андрей Ештокин',
       specialty: 'Семейный психолог',
-      experience: '12 лет',
+      experience: '15 лет',
       description: 'Работа с семейными конфликтами, детско-родительские отношения'
     },
     {
